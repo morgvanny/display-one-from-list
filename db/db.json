@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Das Kapital",
+      "author": "Karl Marx"
+    },
+    {
+      "id": 2,
+      "title": "What is to Be Done?",
+      "author": "Vladimir Lenin"
+    },
+    {
+      "id": 3,
+      "title": "Little Red Book",
+      "author": "Mao Zedong"
+    }
+  ]
+}
